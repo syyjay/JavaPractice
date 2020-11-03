@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c469054-1abf-435f-b7b1-2c33b31a6e0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jiRp5FNl0WeOK2qImOlpHFLC9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcTemplateCRUDTest.testQueryCount">
+    <configuration name="JdbcTemplateCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syyjay-spring-jdbcTemplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTemplateCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.queryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syyjay-spring-jdbcTemplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="queryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syyjay-spring-jdbcTemplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testQueryCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syyjay-spring-jdbcTemplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testQueryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syyjay-spring-jdbcTemplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryCount" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryOne" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.queryAll" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c469054-1abf-435f-b7b1-2c33b31a6e0d" name="Default Changelist" comment="" />
+      <created>1604285104893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604285104893</updated>
+      <workItem from="1604285111392" duration="9975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1413" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1604369052410">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="1413" y="221" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1014@0.23.1920.1014" timestamp="1604369052410" />
+    <state x="881" y="313" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1604307192863">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="881" y="313" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1920.1014@0.23.1920.1014" timestamp="1604307192863" />
+    <state x="1395" y="429" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604295732687">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="1395" y="429" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.1014@0.23.1920.1014" timestamp="1604295732687" />
+    <state width="1505" height="371" key="GridCell.Tab.0.bottom" timestamp="1604373750391">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state width="1505" height="371" key="GridCell.Tab.0.bottom/0.23.1920.1014@0.23.1920.1014" timestamp="1604373750391" />
+    <state width="1505" height="371" key="GridCell.Tab.0.center" timestamp="1604373750389">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state width="1505" height="371" key="GridCell.Tab.0.center/0.23.1920.1014@0.23.1920.1014" timestamp="1604373750389" />
+    <state width="1505" height="371" key="GridCell.Tab.0.left" timestamp="1604373750389">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state width="1505" height="371" key="GridCell.Tab.0.left/0.23.1920.1014@0.23.1920.1014" timestamp="1604373750389" />
+    <state width="1505" height="371" key="GridCell.Tab.0.right" timestamp="1604373750390">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state width="1505" height="371" key="GridCell.Tab.0.right/0.23.1920.1014@0.23.1920.1014" timestamp="1604373750390" />
+    <state x="680" y="192" key="Maven.ArtifactSearchDialog" timestamp="1604307244339">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="680" y="192" key="Maven.ArtifactSearchDialog/0.23.1920.1014@0.23.1920.1014" timestamp="1604307244339" />
+    <state x="838" y="298" width="782" height="550" key="find.popup" timestamp="1604373252462">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="838" y="298" width="782" height="550" key="find.popup/0.23.1920.1014@0.23.1920.1014" timestamp="1604373252462" />
+    <state x="572" y="234" key="new project wizard" timestamp="1604306809798">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="572" y="234" key="new project wizard/0.23.1920.1014@0.23.1920.1014" timestamp="1604306809798" />
+    <state x="894" y="290" width="670" height="676" key="search.everywhere.popup" timestamp="1604373474614">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="894" y="290" width="670" height="676" key="search.everywhere.popup/0.23.1920.1014@0.23.1920.1014" timestamp="1604373474614" />
+  </component>
+</project>
