@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper
+        namespace="com.syyjay.mapper.UserMapper">
+    <select id="findAll" resultType="com.syyjay.domain.User">
+        select  * from tb_user
+    </select>
+
+    <select id="findOne" resultType="com.syyjay.domain.User" parameterType="int">
+    select * from tb_user where  id = #{id}
+    </select>
+
+    <insert id="insert" parameterType="com.syyjay.domain.User" >
+        insert into tb_user values (#{id},#{username},#{password})
+    </insert>
+</mapper>
